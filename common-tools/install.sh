@@ -15,8 +15,8 @@ mkdir -p "${PROJECT_DIR}"
 #url name replace setSymlink
 
 APP_REPO=(
-        "https://altoshift.com/installer/common-tools/app.sh		alto"
-        "hsttps://altoshift.com/installer/common-tools/server.list	server.list"
+        "https://raw.githubusercontent.com/eatrisno/toolkit/master/common-tools/app.sh		alto"
+        "https://raw.githubusercontent.com/eatrisno/toolkit/master/common-tools/server.list	server.list"
 )
 
 
