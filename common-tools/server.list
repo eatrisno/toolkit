@@ -1,0 +1,5 @@
+es001	es001.altoshift.com	ubuntu	~/.ssh/New-Altoshift-Prod.pem
+demo	demo.altoshift.com	ubuntu	~/.ssh/New-Altoshift-Dev.pem
+staging	staging.altoshift.com	ubuntu	~/.ssh/New-Altoshift-Dev.pem
+prod	client.altoshift.com	ubuntu	~/.ssh/New-Altoshift-Prod.pem
+web	altoshift.com	ubuntu	~/.ssh/New-Altoshift-Dev.pem
