@@ -8,8 +8,8 @@ PROJECT_DIR="${DIR}/${PROJECT}"
 sudo mkdir -p "${PROJECT_DIR}"
 
 APP_REPO=(
-        "https://altoshift.com/installer/database-tools/mongo.sh    altomongo	YES"
-        "https://altoshift.com/installer/database-tools/postgres.sh       altopostgres	YES"
+        "https://raw.githubusercontent.com/eatrisno/toolkit/master/database-tools/mongo.sh	altomongo	YES"
+        "https://raw.githubusercontent.com/eatrisno/toolkit/master/database-tools/postgres.sh	altopostgres	YES"
 )
 
 printf "Downloading.."
