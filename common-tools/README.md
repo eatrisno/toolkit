@@ -1,4 +1,6 @@
-# Databases toolkit
+# server access toolkit
+this app can help you access your server with shortcut easly
+
 ### install
 ```
 curl -sSk https://raw.githubusercontent.com/eatrisno/toolkit/master/common-tools/install.sh | bash
