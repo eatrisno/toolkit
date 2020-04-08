@@ -19,11 +19,9 @@ shortcut	host	user	keyfile
 
 sample:
 ```
-es001	es001.altoshift.com	ubuntu	~/.ssh/New-Altoshift-Prod.pem
-demo	demo.altoshift.com	ubuntu	~/.ssh/New-Altoshift-Dev.pem
-staging	staging.altoshift.com	ubuntu	~/.ssh/New-Altoshift-Dev.pem
-prod	client.altoshift.com	ubuntu	~/.ssh/New-Altoshift-Prod.pem
-web	altoshift.com	ubuntu	~/.ssh/New-Altoshift-Dev.pem
+web	web.host.com	ubuntu	~/.ssh/key.pem
+webalto	web.website.com	ubuntu	~/.ssh/key.pem
+demo	demo.website.com	centos	~/.ssh/key.pem
 ```
 
 run the app
